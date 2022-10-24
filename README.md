@@ -4,7 +4,7 @@ PC端网上购物秒杀助手
 
 最新编辑日期：2022/10/24
 
-有疑问推荐在Issues上提出以供他人参考。
+**有疑问推荐在Issues上提出以供他人参考。**
 
 个人邮箱：[sujinltenjoy@gmail.com](mailto:sujinltenjoy@gmail.com)。
 
